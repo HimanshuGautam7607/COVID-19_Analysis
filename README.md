@@ -1,1 +1,2 @@
 # COVID-19_Analysis
+This project involves a comprehensive analysis and visualization of COVID-19 data using various Python libraries such as Pandas, Plotly, and WordCloud. It provides a thorough visual analysis of the COVID-19 pandemic, highlighting key metrics and trends. It leverages advanced visualization techniques to offer insights into the spread and impact of the virus across different regions and over time. The use of interactive and animated plots makes the data more accessible and engaging, helping to convey complex information effectively.
